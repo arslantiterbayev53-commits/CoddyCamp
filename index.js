@@ -22,7 +22,7 @@ info.addEventListener("submit",(e)=>{
    }
 
    if(Telefon === "+998938363252" && password === "8788"){
-   window.location.href = "Index.html"
+   window.location.href = "Homepage.html"
    }else{
       alert("Parol yoki Telefon raqam no'togri kiritilgan!")
    }
